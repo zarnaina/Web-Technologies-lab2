@@ -1,2 +1,5 @@
 # Web-Technologies-lab2
-this is our 2nd lab tasks where we created portfolio webpage and linked multiple pages with a single one.
+This is our 2nd lab tasks where we performed multiple tasks.
+In Task 1, we made a portfolio page that links to multiple other web pages.
+In Task 2, we created a web page for a product.
+In Task 3, we created a login page where username and password is required to login.
